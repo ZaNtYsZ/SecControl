@@ -1,0 +1,15 @@
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\bin\Debug\net8.0\secuencia4.exe
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\bin\Debug\net8.0\secuencia4.deps.json
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\bin\Debug\net8.0\secuencia4.runtimeconfig.json
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\bin\Debug\net8.0\secuencia4.dll
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\bin\Debug\net8.0\secuencia4.pdb
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\obj\Debug\net8.0\secuencia4.GeneratedMSBuildEditorConfig.editorconfig
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\obj\Debug\net8.0\secuencia4.AssemblyInfoInputs.cache
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\obj\Debug\net8.0\secuencia4.AssemblyInfo.cs
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\obj\Debug\net8.0\secuencia4.csproj.CoreCompileInputs.cache
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\obj\Debug\net8.0\secuencia4.sourcelink.json
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\obj\Debug\net8.0\secuencia4.dll
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\obj\Debug\net8.0\refint\secuencia4.dll
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\obj\Debug\net8.0\secuencia4.pdb
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\obj\Debug\net8.0\secuencia4.genruntimeconfig.cache
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia4\obj\Debug\net8.0\ref\secuencia4.dll

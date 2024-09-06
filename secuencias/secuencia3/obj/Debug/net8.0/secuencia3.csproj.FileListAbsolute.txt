@@ -1,0 +1,15 @@
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\bin\Debug\net8.0\secuencia3.exe
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\bin\Debug\net8.0\secuencia3.deps.json
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\bin\Debug\net8.0\secuencia3.runtimeconfig.json
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\bin\Debug\net8.0\secuencia3.dll
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\bin\Debug\net8.0\secuencia3.pdb
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\obj\Debug\net8.0\secuencia3.GeneratedMSBuildEditorConfig.editorconfig
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\obj\Debug\net8.0\secuencia3.AssemblyInfoInputs.cache
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\obj\Debug\net8.0\secuencia3.AssemblyInfo.cs
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\obj\Debug\net8.0\secuencia3.csproj.CoreCompileInputs.cache
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\obj\Debug\net8.0\secuencia3.sourcelink.json
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\obj\Debug\net8.0\secuencia3.dll
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\obj\Debug\net8.0\refint\secuencia3.dll
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\obj\Debug\net8.0\secuencia3.pdb
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\obj\Debug\net8.0\secuencia3.genruntimeconfig.cache
+C:\2do semestre UAM\Metodología y programación estructurada\SecControl\secuencias\secuencia3\obj\Debug\net8.0\ref\secuencia3.dll
